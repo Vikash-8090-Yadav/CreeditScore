@@ -31,8 +31,8 @@ A modern web application that provides comprehensive analysis of Ethereum addres
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-address-analyzer.git
-cd crypto-address-analyzer
+git clone https://github.com/Vikash-8090-Yadav/CreeditScore.git
+cd CreeditScore
 ```
 
 2. Install dependencies:
@@ -42,10 +42,6 @@ npm install
 yarn install
 ```
 
-3. Create a `.env.local` file in the root directory and add your environment variables:
-```env
-NEXT_PUBLIC_API_BASE_URL=https://eth.blockscout.com/api
-```
 
 4. Start the development server:
 ```bash

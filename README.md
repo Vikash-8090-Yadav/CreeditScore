@@ -2,6 +2,7 @@
 
 A modern web application that provides comprehensive analysis of Ethereum addresses, including credit scoring, transaction history, and NFT holdings.
 
+0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97
 ## Features
 
 - **Address Analysis**: Get detailed insights about any Ethereum address

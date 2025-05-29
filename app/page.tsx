@@ -110,9 +110,6 @@ export default function LandingPage() {
             <a href="#pricing" className="text-gray-600 hover:text-gray-900 transition-colors">
               Pricing
             </a>
-            <Button variant="outline" size="sm">
-              Sign In
-            </Button>
           </nav>
         </div>
       </header>
@@ -120,9 +117,6 @@ export default function LandingPage() {
       {/* Hero Section */}
       <section className="container mx-auto px-4 py-16 md:py-24">
         <div className="text-center max-w-4xl mx-auto">
-          <Badge variant="secondary" className="mb-4">
-            🚀 Trusted by 100K+ users worldwide
-          </Badge>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
             Know Your
             <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
